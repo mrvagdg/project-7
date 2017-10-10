@@ -8,7 +8,6 @@ t.shape("turtle")
 t.speed(4)
 t.pensize(3)
 t.pen(fillcolor="red",pencolor="blue")
-t.begin_fill()
 t.forward(50)
 t.right(90)
 t.forward(50)
@@ -85,7 +84,4 @@ t.pen(fillcolor="white",pencolor="white")
 t.forward(10)
 t.right(90)
 t.forward(50)
-import time
-time.sleep(10)
-
 ``` 
