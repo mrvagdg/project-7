@@ -89,3 +89,4 @@ import time
 time.sleep(10)
 
 ``` 
+[출력](merve.jpg)
